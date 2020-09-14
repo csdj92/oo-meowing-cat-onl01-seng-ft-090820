@@ -7,4 +7,7 @@ def meow
   puts "meow!"
 end
 
+cat_name=Cat.new 
+cat_name.name="Maru"
+cat_name.name
 cat_name.meow
